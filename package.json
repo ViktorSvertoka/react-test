@@ -2,7 +2,7 @@
   "name": "react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ViktorSvertoka.github.io/react-test/",
+  "homepage": "https://ViktorSvertoka.github.io/react-test",
   "dependencies": {
     "@react-navigation/native-stack": "^6.9.17",
     "@testing-library/jest-dom": "^5.17.0",
